@@ -1,0 +1,219 @@
+{
+  "id": "1895010",
+  "name": "新时光后台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "939153",
+      "name": "注册",
+      "font_class": "zhuce-copy",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1621488",
+      "name": "新建",
+      "font_class": "xinjian",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "3910672",
+      "name": "门店",
+      "font_class": "-",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "5434324",
+      "name": "角色管理",
+      "font_class": "jiaoseguanli",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "7372793",
+      "name": "分配",
+      "font_class": "fenpei",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "9148696",
+      "name": "方法",
+      "font_class": "fangfa",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "14124684",
+      "name": "设备",
+      "font_class": "shebei",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "14582956",
+      "name": "购物袋",
+      "font_class": "gouwudai",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "15686520",
+      "name": "分配",
+      "font_class": "fenpei1",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "15702439",
+      "name": "图表-03",
+      "font_class": "tubiao-03",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "15702440",
+      "name": "图表-05",
+      "font_class": "tubiao-05",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "15702441",
+      "name": "图表-04",
+      "font_class": "tubiao-04",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "15702442",
+      "name": "图表-07",
+      "font_class": "tubiao-07",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "15702443",
+      "name": "图表-06",
+      "font_class": "tubiao-06",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "15702444",
+      "name": "图表-02",
+      "font_class": "tubiao-02",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "15702445",
+      "name": "图表-08",
+      "font_class": "tubiao-08",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "15702446",
+      "name": "图表-01",
+      "font_class": "tubiao-01",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "15658199",
+      "name": "houtai-10",
+      "font_class": "houtai-10",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15658200",
+      "name": "houtai-09",
+      "font_class": "houtai-09",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15658201",
+      "name": "houtai-08",
+      "font_class": "houtai-08",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15658202",
+      "name": "houtai-03",
+      "font_class": "houtai-03",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15658203",
+      "name": "houtai-11",
+      "font_class": "houtai-11",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "15658204",
+      "name": "houtai-07",
+      "font_class": "houtai-07",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "15658205",
+      "name": "houtai-12",
+      "font_class": "houtai-12",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "15658206",
+      "name": "houtai-05",
+      "font_class": "houtai-05",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15658207",
+      "name": "houtai-01",
+      "font_class": "houtai-01",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "15658208",
+      "name": "houtai-04",
+      "font_class": "houtai-04",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "15658209",
+      "name": "houtai-02",
+      "font_class": "houtai-02",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "15658210",
+      "name": "houtai-06",
+      "font_class": "houtai-06",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4452241",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}

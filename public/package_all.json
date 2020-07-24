@@ -1,0 +1,38 @@
+{	
+	"status":0,
+	"msg":"访问成功",
+	"data":{
+		"num":3,
+		"info":[{
+			"total_amt": 10000,
+			"is_valid": 0,
+			"name": "套餐2",
+			"description": "次卡单价20元",
+			"training_times": 500,
+			"ctime": "2020-07-20T07:18:29.074+00:00",
+			"id": 1,
+			"state": "启用"
+			},
+			{
+			"total_amt": 9000,
+			"is_valid": 0,
+			"name": "套餐1",
+			"description": "次卡单价10元",
+			"training_times": 500,
+			"ctime": "2020-07-20T07:18:29.074+00:00",
+			"id": 2,
+			"state": "启用"
+			},
+			{
+			"total_amt": 8000,
+			"is_valid": 0,
+			"name": "套餐1",
+			"description": "次卡单价15元",
+			"training_times": 300,
+			"ctime": "2020-07-20T07:18:29.074+00:00",
+			"id": 3,
+			"state": "启用"
+			}
+			]
+		}
+}
